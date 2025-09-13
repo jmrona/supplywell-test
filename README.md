@@ -28,6 +28,7 @@ General rules for value are:
 
 
 ## Usage
+
 - To see the value of the items over 10 days, run: 
 ```sh
 php application.php
@@ -36,6 +37,7 @@ php application.php
 - If you uncomment the relevant block of code in `application.php`, you will see a simulation of the value of the items over the next 50 days.
 
 ## Testing
+
 -to check if all tests pass successfully, run:
 ```sh
 composer run-script tests
