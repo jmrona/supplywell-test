@@ -1,5 +1,6 @@
 {
     "name": "techtest/jose",
+    "description": "Tech Test for Supplywell",
     "require-dev": {
         "pestphp/pest": "^3.8"
     },
